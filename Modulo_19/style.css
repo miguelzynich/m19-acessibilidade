@@ -1,0 +1,108 @@
+.gsc-control-cse,
+.gsc-control-cse .gsc-table-result,
+.gsc-refinementsGradient {
+  font-family: arial, sans-serif;
+}
+
+.gsc-control-cse {
+  border-color: #ffffff;
+  background-color: #ffffff;
+}
+
+input.gsc-input,
+.gsc-input-box,
+.gsc-input-box-hover,
+.gsc-input-box-focus {
+  border-color: #dfe1e5;
+}
+
+.gsc-search-button-v2,
+.gsc-search-button-v2:hover,
+.gsc-search-button-v2:focus {
+  border-color: #3079ed;
+  background-color: #4d90fe;
+  background-image: none;
+  filter: none;
+}
+
+.gsc-search-button-v2 svg {
+  fill: #ffffff;
+}
+
+.gsc-tabHeader.gsc-tabhActive,
+.gsc-refinementHeader.gsc-refinementhActive {
+  color: #1a73e8;
+  border-color: #1a73e8;
+  background-color: #ffffff;
+}
+
+.gsc-tabHeader.gsc-tabhInactive,
+.gsc-refinementHeader.gsc-refinementhInactive {
+  color: #666666;
+  border-color: #666666;
+  background-color: #ffffff;
+}
+
+.gsc-webResult.gsc-result,
+.gsc-results .gsc-imageResult {
+  border-color: #ffffff;
+  background-color: #ffffff;
+}
+
+.gs-webResult.gs-result a.gs-title:link,
+.gs-webResult.gs-result a.gs-title:visited,
+.gs-webResult.gs-result a.gs-title:hover,
+.gs-webResult.gs-result a.gs-title:active {
+  color: #1155cc;
+}
+
+.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,
+.gs-fileFormatType {
+  color: #333333;
+}
+
+.gs-webResult div.gs-visibleUrl,
+.gs-webResult div.gs-visibleUrl-short,
+.gs-webResult div.gs-visibleUrl-long {
+  color: #009933;
+}
+
+.gsc-webResult.gsc-result.gsc-promotion {
+  border-color: #ffffff;
+  background-color: #f6f6f6;
+}
+
+.gsc-cursor-page,
+.gsc-results .gsc-cursor-box .gsc-cursor-page,
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+  border-color: #ffffff;
+}
+
+.gsc-completion-title {
+  color: #1155cc;
+}
+
+.gsc-completion-snippet {
+  color: #333333;
+}
+
+.gs-promotion a.gs-title:link,
+.gs-promotion a.gs-title:visited,
+.gs-promotion a.gs-title:hover,
+.gs-promotion a.gs-title:active,
+.gs-promotion .gs-snippet a:link,
+.gs-promotion .gs-snippet a:visited,
+.gs-promotion .gs-snippet a:hover,
+.gs-promotion .gs-snippet a:active,
+.gs-promotion .gs-title .gs-promotion-title-right,
+.gs-promotion .gs-title .gs-promotion-title-right *,
+.gs-promotion .gs-visibleUrl,
+.gs-promotion .gs-visibleUrl-short {
+  color: #1155cc;
+}
+
+.gcsc-find-more-on-google,
+.gcsc-find-more-on-google-magnifier {
+  color: #1155cc;
+}
+
