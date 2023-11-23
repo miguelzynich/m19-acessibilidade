@@ -1,4 +1,4 @@
-#M19 Acessibilidade
+# M19 Acessibilidade
 Este projeto visa melhorar a acessibilidade de um site, alcançando uma pontuação de 100% no Lighthouse do Google.
 
 Objetivo
